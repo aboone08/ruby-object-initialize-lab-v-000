@@ -5,7 +5,7 @@ class Person
   def name
     @name
   end 
-  def name=(Kingsley)
+  def name=(kingsley)
     @name = Kingsley
   end
 end 
